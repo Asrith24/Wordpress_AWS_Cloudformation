@@ -10,7 +10,7 @@ stack templates — fully automated infrastructure provisioning.
 - Free Tier configuration
 
 ## What I Learned
-[Write 3 sentences in your own words about what this taught you]
+I Have learned to Deploy a Stack using CloudFormation, Access and Manage it. Additionally, I have learned How CloudFormation is used to Run Web Page.
 
 ## Challenges & How I Fixed Them
-[Copy directly from your assignment write-up — you already wrote this]
+I was able to complete all the required steps of the WordPress example successfully. The CloudFormation stack deployed correctly, the necessary AWS resources were created, and the WordPress application was accessible as expected. After completing the assignment, all resources were deleted to avoid any charges.

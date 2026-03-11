@@ -1,16 +1,26 @@
 # WordPress Deployment via AWS CloudFormation
 
 ## What I Built
-Deployed a WordPress application on AWS using CloudFormation 
-stack templates — fully automated infrastructure provisioning.
+Deployed a fully functional WordPress application on AWS using 
+CloudFormation stack templates, automating the provisioning of 
+all required infrastructure without manual configuration.
 
 ## AWS Services Used
-- CloudFormation
-- EC2
-- Free Tier configuration
+- AWS CloudFormation (stack creation and management)
+- Amazon EC2 (compute instance for WordPress)
+- Amazon RDS (managed database)
+- AWS Free Tier (cost-controlled deployment)
 
 ## What I Learned
-I Have learned to Deploy a Stack using CloudFormation, Access and Manage it. Additionally, I have learned How CloudFormation is used to Run Web Page.
+CloudFormation eliminates manual resource setup by defining 
+infrastructure as reusable templates. This project taught me 
+how to read, deploy, and manage a CloudFormation stack, 
+understand resource dependencies, and verify end-to-end 
+application accessibility once a stack is live.
 
 ## Challenges & How I Fixed Them
-I was able to complete all the required steps of the WordPress example successfully. The CloudFormation stack deployed correctly, the necessary AWS resources were created, and the WordPress application was accessible as expected. After completing the assignment, all resources were deleted to avoid any charges.
+The deployment completed without critical issues. Post-deployment, 
+I verified all resources were correctly provisioned and the 
+WordPress application was publicly accessible via the assigned 
+endpoint. All resources were cleanly deleted after completion 
+to prevent unexpected AWS charges.
